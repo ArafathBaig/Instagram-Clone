@@ -1,0 +1,4 @@
+#Fri Aug 09 11:21:54 IST 2019
+base.0=/home/fauzan/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/1
+path.0=classes.dex
+renamed.0=classes.dex
